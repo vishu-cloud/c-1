@@ -8,5 +8,5 @@ they don't get too big.
 syntax for for loop
 for(initialization:condition:modification)
 {
-code
+code....
 }
